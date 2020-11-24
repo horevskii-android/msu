@@ -3,10 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-<<<<<<< Updated upstream
-    android:background="@drawable/j1">
-=======
-    android:background="@drawable/">
+    android:background="@drawable/rrrrr">
 
     <Button
 
@@ -23,5 +20,4 @@
         android:text="@string/e"
         android:textSize="13sp"/>
 
->>>>>>> Stashed changes
 </RelativeLayout>
